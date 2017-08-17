@@ -9,16 +9,17 @@ CREEPERS LIST:
 #### Supposed to be fixed ####  
 
 JAIMES LIST: 
-*= BUTTON MAPPING:                                                                   ~~~~~~~~~~~~~~~
+
+* = BUTTON MAPPING:                                                                   ~~~~~~~~~~~~~~~
 its missing *short press* HOME.. 
 its missing *double tap* RECENTS.. 
 and *all* BACK button options. 
 
-*= Status Bar Ticker (need more info about this)                                   
+* = Status Bar Ticker (need more info about this)                                   
 #### Supposed to be fixed ####  
 
 LEKIAM PWNYCORN LIST: 
-*= add Disable Hapatic Feedback option                          ~~~~~~~~~~~~~~~
+* = add Disable Hapatic Feedback option                          ~~~~~~~~~~~~~~~
 
 
 
