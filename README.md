@@ -1,6 +1,6 @@
-# todolist
 
-cheeseburger->
+
+# cheeseburger:
 
 #### CREEPERS LIST:  
 
@@ -29,7 +29,7 @@ cheeseburger->
 
 
 
-jf->
+# jf:
 *revert sprint overwrite
 *revert hwui shit. buff was right.SS is fucked
 *reset ticker on jf optcm
