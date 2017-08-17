@@ -1,22 +1,31 @@
 # todolist
 
 cheeseburger->
-CREEPERS LIST:  
 
-* Fix 'acore' error  --- a reboot solves this -or- dm-verity flash solves this #### Supposed to be fixed #### 
+#### CREEPERS LIST:  
+
+1) Fix 'acore' error  --- a reboot solves this -or- dm-verity flash solves this #### Supposed to be fixed #### 
  
-* Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   #### Supposed to be fixed ####  
+2) Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   #### Supposed to be fixed ####  
 
-JAIMES LIST: 
-* = BUTTON MAPPING:                                                                  
-its missing *short press* HOME.. 
-its missing *double tap* RECENTS.. 
-and *all* BACK button options. 
+---------------
+#### JAIMES LIST: 
 
-* = Status Bar Ticker (need more info about this)         #### Supposed to be fixed ####                            
+3) = BUTTON MAPPING:   
 
-LEKIAM PWNYCORN LIST: 
-* = add Disable Hapatic Feedback option                          ~~~~~~~~~~~~~~~
+    its missing 'short press' HOME.. 
+     
+    its missing *double tap* RECENTS.. 
+    
+    and *all* BACK button options. 
+
+4) = Status Bar Ticker (need more info about this)         #### Supposed to be fixed ####  
+
+---------------
+
+#### LEKIAM PWNYCORN LIST: 
+
+5) = add Disable Hapatic Feedback option                         
 
 
 
