@@ -11,7 +11,7 @@ cheeseburger->
 ---------------
 #### JAIMES LIST: 
 
-3) = BUTTON MAPPING:   
+3) BUTTON MAPPING:   
 
     its missing 'short press' HOME.. 
      
@@ -19,13 +19,13 @@ cheeseburger->
     
     and *all* BACK button options. 
 
-4) = Status Bar Ticker (need more info about this)  **Supposed to be fixed**
+4) Status Bar Ticker (need more info about this)  **Supposed to be fixed**
 
 ---------------
 
 #### LEKIAM PWNYCORN LIST: 
 
-5) = add Disable Hapatic Feedback option                         
+5) add Disable Hapatic Feedback option                         
 
 
 
