@@ -4,9 +4,9 @@ cheeseburger->
 
 #### CREEPERS LIST:  
 
-1) Fix 'acore' error  --- a reboot solves this -or- dm-verity flash solves this #### Supposed to be fixed #### 
+1) Fix 'acore' error  --- a reboot solves this -or- dm-verity flash solves this **Supposed to be fixed**
  
-2) Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   #### Supposed to be fixed ####  
+2) Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   **Supposed to be fixed** 
 
 ---------------
 #### JAIMES LIST: 
@@ -19,7 +19,7 @@ cheeseburger->
     
     and *all* BACK button options. 
 
-4) = Status Bar Ticker (need more info about this)         #### Supposed to be fixed ####  
+4) = Status Bar Ticker (need more info about this)  **Supposed to be fixed**
 
 ---------------
 
