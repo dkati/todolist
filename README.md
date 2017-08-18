@@ -6,7 +6,9 @@
 
 1) Fix 'acore' error  --- a reboot solves this -or- dm-verity flash solves this **Supposed to be fixed**
  
-2) Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   **Supposed to be fixed** 
+2) Fix Alert Slider - make it stick after reboot  --- a custom kernel solves this   **Supposed to be fixed**
+
+3) Alert Slider - Silent/Alarm/Prioity/None greyed out on Custom Kernel - OK on Stock Kernel - (Settings > Additional Buttons)
 
 ---------------
 #### JAIMES LIST: 
@@ -19,7 +21,7 @@
     
     and *all* BACK button options. 
 
-4) Status Bar Ticker (need more info about this)  **Supposed to be fixed**
+4) Status Bar Ticker  **Supposed to be fixed**
 
 ---------------
 
@@ -27,7 +29,7 @@
 
 5) add Disable Hapatic Feedback option                         
 
-
+---------------
 
 # ======jf======
 *revert sprint overwrite
