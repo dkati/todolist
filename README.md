@@ -29,9 +29,13 @@
 
 5) add Disable Hapatic Feedback option                         
 
+#### SIDE LIST:
+
+6) add my desktop's bookmarks
 ---------------
 
 # ======jf======
 *revert sprint overwrite
 *revert hwui shit. buff was right.SS is fucked
 *reset ticker on jf optcm
+*echos on fb messenger calls
