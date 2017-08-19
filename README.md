@@ -13,13 +13,8 @@
 ---------------
 #### JAIMES LIST: 
 
-3) BUTTON MAPPING:   
-
-    its missing 'short press' HOME.. 
-     
-    its missing *double tap* RECENTS.. 
-    
-    and *all* BACK button options. 
+3) BUTTON MAPPING:                              <<< **NOT ABLE TO BE DONE AT THIS TIME**
+    its missing 'short press' HOME.. its missing *double tap* RECENTS.. and *all* BACK button options. 
 
 4) Status Bar Ticker  **Supposed to be fixed**
 
