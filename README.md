@@ -30,9 +30,13 @@
 
 # ======jf======
 *revert sprint overwrite
+
 *revert hwui shit. buff was right.SS is fucked
+
 *reset ticker on jf optcm
+
 *echos on fb messenger calls
+
 *sync sprint init with los configs
 
 #### BUFF LIST: 
