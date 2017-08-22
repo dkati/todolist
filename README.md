@@ -39,5 +39,7 @@
 
 *sync sprint init with los configs
 
+
+https://github.com/LineageOS/android_device_samsung_serrano-common/commit/3bba249693aba7cc5c91bfa640e05ac11d296c65
 #### BUFF LIST: 
 * investigate thermal-engine
